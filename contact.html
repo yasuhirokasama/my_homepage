@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact</title>
+  <link rel="shortcut icon" href="img/favicon/favicongreen36.ico">
+  <link rel="stylesheet" type="text/css" href="style.css?v=1">
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Shadows+Into+Light&display=swap" rel="stylesheet">
+  <!-- fontawesomeの導入 -->
+  <script src="https://kit.fontawesome.com/93bc9fbaef.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <section class="site-header fixed">
+        <!-- logo -->
+        <div class="logo">
+            <h1><a href="index.html#">pauole.jp</a></h1>
+        </div>
+        <!-- navi -->
+        <nav>
+            <ul>
+                <li><a href="index.html#"><i class="fas fa-home white fa-2x"></i></a>
+                    <div class="mask">
+                        <div class="caption">Home</div>
+                    </div>
+                </li>
+                <li><a href="index.html#concept"><i class="far fa-handshake white fa-2x"></i></a>
+                    <div class="mask">
+                        <div class="caption">Concept</div>
+                    </div>
+                </li>
+                <li><a href="index.html#about"><i class="fas fa-user white fa-2x"></i></a>
+                    <div class="mask">
+                        <div class="caption">About</div>
+                    </div>
+                </li>
+                <li><a href="index.html#works"><i class="fab fa-buromobelexperte white fa-2x"></i></a>
+                    <div class="mask">
+                        <div class="caption">Works</div>
+                    </div>
+                </li>
+                <li><a href="contact.html"><i class="far fa-envelope white fa-2x"></i></a>
+                    <div class="mask">
+                        <div class="caption">Contact</div>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+    </section>
+
+    <section class="contact">
+        <div class="contact-top">
+            <h2>Contact</h2>
+        </div>
+        <div class="contact-form">
+            <p>制作のご依頼やご相談などお気軽にお問い合わせください<br>ご入力後、各項目内容のご確認のうえ、送信ボタンを押してください</p>
+            <div class="form-wrap">
+                <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSeItY91xxrODwK5trnOeYazVyCdySxjQCAjcp_i4nkBr5mDWQ/formResponse">
+                    <label class="form-label" for="company-name">貴社名 : </label>
+                    <input class="form-input"id="company-name" type="text" name="company-name"></input>
+                    <label class="form-label" for="yourname">お名前 : </label>
+                    <input class="form-input" id="yourname" type="text" name="yourname"></input>
+                    <label class="form-label" for="mail">メールアドレス : </label>
+                    <input class="form-input" id="mail" type="email" name="mail"></input>
+                    <label class="form-label" for="phone-number">電話番号 : </label>
+                    <input class="form-input" id="phone-number" type="number" name="phone-number"></input>
+                    <label class="form-label" for="comment">コメント : </label>
+                    <textarea id="comment" name="comment"></textarea>
+                    <button type="submit" name="button" value="送信"></button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- loading 画面 -->
+    <!-- <div id="my-spinner" class="box">
+        <div class="spinner type1">
+            <span>Loading...</span>
+        </div>
+    </div> -->
+
+    <footer>
+        <small>© PAUOLE.JP All Rights Reserved.</small>
+    </footer>
+
+  
+</body>
+</html>

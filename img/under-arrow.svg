@@ -1,0 +1,17 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg" style="">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <path fill="none" id="canvas_background" height="52" width="52" d="M-1 -1 L51 -1 L51 51 L-1 51 Z" class="ISEgCAwl_0"></path>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <path fill="url(#gridpattern)" stroke-width="0" height="100%" width="100%" d="M0 0 L100 0 L100 100 L0 100 Z" class="ISEgCAwl_1"></path>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_1" fill="none" d="M25.175204,2.004467L25.175204,48.755022" class="ISEgCAwl_2"></path>
+  <path stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" fill-opacity="null" stroke-opacity="null" fill="none" d="M25.08663,48.390337L6.66334,36.167192" class="ISEgCAwl_3"></path>
+  <path stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_3" fill-opacity="null" stroke-opacity="null" fill="none" d="M7.017634,36.344339L43.336662,36.344339" class="ISEgCAwl_4"></path>
+  <path stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_4" fill-opacity="null" stroke-opacity="null" fill="none" d="M43.155627,36.344339L25.263777,48.390337" class="ISEgCAwl_5"></path>
+ </g>
+<style data-made-with="vivus-instant">.ISEgCAwl_0{stroke-dasharray:208 210;stroke-dashoffset:209;animation:ISEgCAwl_draw 562ms linear 0ms forwards;}.ISEgCAwl_1{stroke-dasharray:400 402;stroke-dashoffset:401;animation:ISEgCAwl_draw 1079ms linear 562ms forwards;}.ISEgCAwl_2{stroke-dasharray:47 49;stroke-dashoffset:48;animation:ISEgCAwl_draw 129ms linear 1641ms forwards;}.ISEgCAwl_3{stroke-dasharray:23 25;stroke-dashoffset:24;animation:ISEgCAwl_draw 64ms linear 1771ms forwards;}.ISEgCAwl_4{stroke-dasharray:37 39;stroke-dashoffset:38;animation:ISEgCAwl_draw 102ms linear 1835ms forwards;}.ISEgCAwl_5{stroke-dasharray:22 24;stroke-dashoffset:23;animation:ISEgCAwl_draw 61ms linear 1938ms forwards;}@keyframes ISEgCAwl_draw{100%{stroke-dashoffset:0;}}@keyframes ISEgCAwl_fade{0%{stroke-opacity:1;}93.54838709677419%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>
